@@ -29,7 +29,7 @@ This project implements a virtual mouse using computer vision techniques and han
 1. Run the Python script:
 
    ```bash
-   python virtual_mouse.py
+   python main.py
    ```
 
 2. The webcam will open, and the system will start tracking your hand. Move your index finger to control the mouse cursor. Bring your thumb close to the index finger to simulate a mouse click.
